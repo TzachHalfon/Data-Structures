@@ -37,6 +37,8 @@ Task
 ```
 include the ds you will like to use,
 compile your source file with the desired ds.
+OR
+use the given make file to create a library using make debug
 ```
 
 ### License
