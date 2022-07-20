@@ -8,12 +8,6 @@ implemention of multiple data structures in the c language
 
 ***
 
-### Installation
-```
-cd DataStructuresInC
-
-```
-
 ### Usage
 ```
 compile this data structures with your desired files
