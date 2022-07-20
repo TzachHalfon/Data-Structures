@@ -3,29 +3,31 @@
 <br />
 <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" /><br>
 <br>
+ <p align="left">
 implemention of multiple data structures in the c language </br>
 including :</br>
-AVL,
-Bit array,
-Binary tree,
-Circular buffer,
-Hash map,
-Heap,
-stack,
-Vector,
-scheduler,</br>
-Queue,
-Priority queue,
-Double linked list,
-Single linked list,
-Sorted linked list
-
+1) stack,</br>
+2) Vector,</br>
+3) Queue,</br>
+4) Priority queue,</br>
+5) Heap,</br>
+6) Double linked list,</br>
+7) Single linked list, </br>
+8) Sorted linked list,</br>
+9) Bit array,</br>
+10) AVL,</br>
+11) Binary tree,</br>
+12) Circular buffer,</br>
+13) Hash map,</br>
+14) scheduler,</br>
+</p>
+ <p align="left">
 in addition some of the data structures use :</br>
 UID,
 FSA,
 VSA,
 Task
-
+</p>
 </div>
 
 ---
